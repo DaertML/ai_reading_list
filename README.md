@@ -16,6 +16,7 @@ Happy reading!
 - Natural Language Processing with Transformers, Revised Edition (Advanced) (https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 - Generative Deep Learning, 2nd Edition (Advanced)(https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
 - Practical Natural Language Processing (Great for starters) (https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
+- Deep Learning from Scratch (Advanced) (https://www.oreilly.com/library/view/deep-learning-from/9781492041405/)
 
 # Generative AI
 - AI Engineering (Great for starters) (https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
@@ -29,3 +30,7 @@ Happy reading!
 - Artificial Intelligence: A Modern Approach, 4th US ed. (Advanced) (https://aima.cs.berkeley.edu/)
 - 
 
+# Robotics
+- Programming Robots with ROS (Great for starters) (https://www.oreilly.com/library/view/programming-robots-with/9781449325480/)
+- Springer Handbook of Robotics (Advanced) (https://link.springer.com/book/10.1007/978-3-540-30301-5)
+- 
